@@ -1,0 +1,83 @@
+[
+  {
+    "title": "Street Rush",
+    "price": "Free",
+    "imageUrl": "assets/images/StreetRush/icon.png",
+    "description": "assets/description/street_rush.txt",
+    "downloadFile": "assets/games/street rush.zip",
+    "whishlist": false,
+    "installLocation": "",
+    "isDownloaded": false,
+    "screenshots": [
+      "assets/images/StreetRush/street_rush_1.png",
+      "assets/images/StreetRush/trailer.mp4",
+      "assets/images/StreetRush/street_rush_2.png",
+      "assets/images/StreetRush/street_rush_3.png",
+      "assets/images/StreetRush/street_rush_4.png"
+    ]
+  },
+  {
+    "title": "Space Runner 3D",
+    "price": "Free",
+    "imageUrl": "assets/images/SpaceRunner/icon.png",
+    "description": "assets/description/spacerunner.txt",
+    "downloadFile": "assets/games/space runner.zip",
+    "whishlist": false,
+    "installLocation": "",
+    "isDownloaded": false,
+    "screenshots": [
+      "assets/images/SpaceRunner/space_runner_1.png",
+      "assets/images/SpaceRunner/space_runner_2.png",
+      "assets/images/SpaceRunner/space_runner_3.png"
+    ]
+  },
+  {
+    "title": "Flip Dash",
+    "price": "Free",
+    "imageUrl": "assets/images/FlipDash/icon.png",
+    "description": "assets/description/flip_dash.txt",
+    "downloadFile": "assets/games/FLIP DASH.zip",
+    "whishlist": false,
+    "installLocation": "",
+    "isDownloaded": false,
+    "screenshots": [
+      "assets/images/FlipDash/flip_dash_1.png",
+      "assets/images/FlipDash/flip_dash_2.png",
+      "assets/images/FlipDash/flip_dash_3.png",
+      "assets/images/FlipDash/flip_dash_4.png"
+    ]
+  },
+  {
+    "title": "Chain Cutter",
+    "price": "Free",
+    "imageUrl": "assets/images/ChainCutter/icon.png",
+    "description": "assets/description/chaincutter.txt",
+    "downloadFile": "assets/games/Chain Cutter.apk",
+    "whishlist": false,
+    "installLocation": "",
+    "isDownloaded": false,
+    "screenshots": [
+      "assets/images/ChainCutter/chaincutter_1.png",
+      "assets/images/ChainCutter/chaincutter_2.png",
+      "assets/images/ChainCutter/chaincutter_3.png",
+      "assets/images/ChainCutter/chaincutter_4.png"
+    ]
+  },
+    {
+    "title": "Crossy Road",
+    "price": "Free",
+    "imageUrl": "assets/images/CrossyRoad/icon.png",
+    "description": "assets/description/crossyroad.txt",
+    "downloadFile": "assets/games/crossy road.apk",
+    "whishlist": false,
+    "installLocation": "",
+    "isDownloaded": false,
+    "screenshots": [
+      "assets/images/CrossyRoad/crossyroad_1.png",
+      "assets/images/CrossyRoad/crossyroad_2.png",
+      "assets/images/CrossyRoad/crossyroad_3.png",
+      "assets/images/CrossyRoad/crossyroad_4.png",
+      "assets/images/CrossyRoad/crossyroad_4.png"
+    ]
+  }
+]

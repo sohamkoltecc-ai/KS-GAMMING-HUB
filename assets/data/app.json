@@ -1,0 +1,88 @@
+[
+  {
+    "title": "Calculator",
+    "price": "Free",
+    "imageUrl": "assets/images/calculator/icon.png",
+    "description": "assets/description/calculator.txt",
+    "downloadFile": "assets/apps/calculator.apk",
+    "whishlist": false,
+    "installLocation": "",
+    "isDownloaded": false,
+    "screenshots": [
+      "assets/images/calculator/calculator_1.png",
+      "assets/images/calculator/calculator_2.png",
+      "assets/images/calculator/calculator_3.png"
+    ]
+  },
+  {
+    "title": "Wallpaper App",
+    "price": "Free",
+    "imageUrl": "assets/images/wallpaperapp/icon.png",
+    "description": "assets/description/wallpaper.txt",
+    "downloadFile": "assets/apps/wallpaperapp.apk",
+    "whishlist": false,
+    "installLocation": "",
+    "isDownloaded": false,
+    "screenshots": [
+      "assets/images/wallpaperapp/wallpaper_1.png",
+      "assets/images/wallpaperapp/wallpaper_2.png",
+      "assets/images/wallpaperapp/wallpaper_3.png",
+      "assets/images/wallpaperapp/wallpaper_4.png",
+      "assets/images/wallpaperapp/wallpaper_5.png",
+      "assets/images/wallpaperapp/wallpaper_6.png",
+      "assets/images/wallpaperapp/wallpaper_7.png",
+      "assets/images/wallpaperapp/wallpaper_8.png"
+    ]
+  },
+  {
+    "title": "Game Zone",
+    "price": "Free",
+    "imageUrl": "assets/images/gamezone/icon.png",
+    "description": "assets/description/gamezone.txt",
+    "downloadFile": "assets/apps/gamezone.apk",
+    "whishlist": false,
+    "installLocation": "",
+    "isDownloaded": false,
+    "screenshots": [
+      "assets/images/gamezone/gamezone_1.png",
+      "assets/images/gamezone/gamezone_2.png",
+      "assets/images/gamezone/gamezone_3.png",
+      "assets/images/gamezone/gamezone_4.png",
+      "assets/images/gamezone/gamezone_5.png",
+      "assets/images/gamezone/gamezone_6.png",
+      "assets/images/gamezone/gamezone_7.png",
+      "assets/images/gamezone/gamezone_8.png",
+      "assets/images/gamezone/gamezone_9.png",
+      "assets/images/gamezone/gamezone_10.png"
+    ]
+  },
+  {
+    "title": "Stop Watch",
+    "price": "Free",
+    "imageUrl": "assets/images/stopwatch/icon.png",
+    "description": "assets/description/stopwatch.txt",
+    "downloadFile": "assets/apps/stopwatch.apk",
+    "whishlist": false,
+    "installLocation": "",
+    "isDownloaded": false,
+    "screenshots": [
+      "assets/images/stopwatch/stopwatch-1.png",
+      "assets/images/stopwatch/stopwatch-2.png"
+    ]
+  },
+  {
+    "title": "To Do List App",
+    "price": "Free",
+    "imageUrl": "assets/images/todolist/icon.png",
+    "description": "assets/description/todolist.txt",
+    "downloadFile": "assets/apps/todolist.apk",
+    "whishlist": false,
+    "installLocation": "",
+    "isDownloaded": false,
+    "screenshots": [
+      "assets/images/todolist/todolist_1.png",
+      "assets/images/todolist/todolist_2.png",
+      "assets/images/todolist/todolist_3.png"
+    ]
+  }
+]

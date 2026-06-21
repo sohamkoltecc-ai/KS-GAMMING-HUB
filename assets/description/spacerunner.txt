@@ -1,0 +1,11 @@
+Dash into the stars in this fast-paced endless runner!  You are a daring space explorer racing through the galaxy, dodging deadly obstacles and pushing your reflexes to the limit. Collect points as you survive longer, beat your high score, and challenge yourself to last as long as possible in the infinite void of space.  
+
+⚡ Features:  
+
+Endless 3D space environment  
+
+Fast and responsive controls  
+
+Increasing difficulty as you run 
+
+ Score and high score tracking

@@ -1,0 +1,15 @@
+Flip Dash is a simple but addictive 2D arcade game.
+
+Tap/Click/Press Space key to flip your player between the top and bottom paths.
+
+Avoid obstacles that come your way.
+
+Collect points and challenge yourself to beat your high score.
+
+Test your reaction speed and timing in this endless runner style challenge.
+
+Also you can Change your skin.
+
+🕹️ Controls
+
+Keyboard / Mobile Input: Press [Space] or tap screen to flip.

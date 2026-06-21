@@ -1,0 +1,24 @@
+Chain Cutter is a fun and challenging physics-based puzzle game where strategy, timing, and precision are the keys to success. Your objective is simple: cut chains in the correct order to guide objects safely to their destination. While the concept is easy to learn, each level introduces new obstacles, mechanics, and challenges that will test your problem-solving skills.
+
+Analyze the environment, predict object movements, and carefully decide which chains to cut. A single mistake can send objects in the wrong direction, while the perfect sequence can lead to a satisfying solution. As you progress, levels become more complex, requiring creativity, planning, and quick thinking.
+
+Featuring smooth physics, engaging puzzles, and rewarding gameplay, Chain Cutter provides an enjoyable experience for casual players and puzzle enthusiasts alike. Every level offers a unique challenge that encourages experimentation and strategic decision-making.
+
+Features:
+
+• Physics-based puzzle gameplay
+• Cut chains to solve challenging levels
+• Easy-to-learn controls with strategic depth
+• Increasingly difficult puzzles and obstacles
+• Realistic object movement and interactions
+• Multiple level designs and challenges
+• Smooth animations and responsive controls
+• Brain-training and problem-solving gameplay
+• Suitable for players of all ages
+• Clean and engaging visual design
+• Quick levels for casual play sessions
+• Fun, rewarding, and addictive mechanics
+
+Whether you're looking for a relaxing puzzle experience or a challenging brain teaser, Chain Cutter delivers hours of engaging gameplay. Test your logic, improve your timing, and discover creative solutions as you progress through increasingly difficult levels.
+
+Can you find the perfect cut and solve every puzzle? Grab your virtual scissors and start the challenge in Chain Cutter!
