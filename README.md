@@ -33,10 +33,6 @@ Whether you're looking for your next favorite game or a useful application, Gami
 
 <img width="1365" height="767" alt="Screenshot 2026-06-21 145251" src="https://github.com/user-attachments/assets/3098a04a-b1ae-4680-87f0-ba4e48df155d" />
 
-<img width="1365" height="767" alt="Screenshot 2026-06-21 145257" src="https://github.com/user-attachments/assets/bf9b39d9-226e-4604-b995-2ce1594cfccd" />
-
-<img width="1363" height="767" alt="Screenshot 2026-06-21 145308" src="https://github.com/user-attachments/assets/4dbd8aed-5940-4f7a-8671-24ecfcdb5038" />
-
 <img width="1365" height="767" alt="Screenshot 2026-06-21 145316" src="https://github.com/user-attachments/assets/2660781d-d40a-4591-ab1c-b63598c143db" />
 
 <img width="1365" height="767" alt="Screenshot 2026-06-21 145325" src="https://github.com/user-attachments/assets/671cf696-183f-44bf-a9e1-f982ab733ff8" />
@@ -45,5 +41,7 @@ Whether you're looking for your next favorite game or a useful application, Gami
 
 <img width="1366" height="768" alt="Screenshot 2026-06-21 145409" src="https://github.com/user-attachments/assets/29de0333-1235-473e-9872-b3008bd671e6" />
 
+<img width="1365" height="767" alt="Screenshot 2026-06-21 145257" src="https://github.com/user-attachments/assets/bf9b39d9-226e-4604-b995-2ce1594cfccd" />
 
+<img width="1363" height="767" alt="Screenshot 2026-06-21 145308" src="https://github.com/user-attachments/assets/4dbd8aed-5940-4f7a-8671-24ecfcdb5038" />
 
