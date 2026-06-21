@@ -59,7 +59,8 @@ https://github.com/user-attachments/assets/06f6c459-fb3b-4d9c-abde-57a80ff157cd
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <img width="1365" height="767" alt="Screenshot 2026-06-21 145257" src="https://github.com/user-attachments/assets/bf9b39d9-226e-4604-b995-2ce1594cfccd" />
-<br>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <img width="1363" height="767" alt="Screenshot 2026-06-21 145308" src="https://github.com/user-attachments/assets/4dbd8aed-5940-4f7a-8671-24ecfcdb5038" />
 <br>
 <hr>
