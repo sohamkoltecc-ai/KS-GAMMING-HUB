@@ -19,13 +19,10 @@ Whether you're looking for your next favorite game or a useful application, Gami
 # TRAILER
 
 https://github.com/user-attachments/assets/06f6c459-fb3b-4d9c-abde-57a80ff157cd
-
 <br>
 <hr>
-<br>
 
 # SCREENSHOTS
-
 
 <img width="1365" height="767" alt="Screenshot 2026-06-21 145640" src="https://github.com/user-attachments/assets/f1d44f2f-9e46-4d28-8b8e-8bf76e07a65e" />
 <br>
